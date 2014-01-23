@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+#nav ul li{
+	list-style: none;
+	float: left;
+	padding-right:10px;
+	margin: 0;
+}
+
+#nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+body, html, *{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: black;
+}
+
+#main_layout {
+	background-color: #2AC455;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#nav {
+	position: relative;
+	top: -30px;
+	left: 350px;
+}
+
+#header {
+	background-color: #2962c4;
+}
+
+#content {
+	height: 800px;
+}
+
+#footer {
+	background-color: gray;
+	height: 200px;
+}
