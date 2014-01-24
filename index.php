@@ -44,12 +44,20 @@
 			</div>
 		</div>
 
-		<div id="content">
-			<p>Here is an example homepage.</p>
+		<div class="row">
+			<div id="content">
+				<div class="large-12 columns">
+					<p>Here is an example homepage.</p>
+				</div>
+			</div>
 		</div>
 
-		<div id="footer">
-			<p>&copy Graydons Web Design</p>
+		<div class="row">
+			<div id="footer">
+				<div class="large-12 columns">
+					<p>&copy Graydons Web Design</p>
+				</div>
+			</div>
 		</div>
 	</div>
 	
