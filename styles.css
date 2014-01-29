@@ -4,3 +4,13 @@
 {
 	text-align: center;
 }
+
+body
+{
+	background: #444444;
+}
+
+#main_layout
+{
+	background: #FFFFFF;
+}

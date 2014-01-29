@@ -8,16 +8,17 @@
 		<!-- <link rel="stylesheet" type="text/css" href="css/styles.css" />-->
 		<link rel="stylesheet" href="css/foundation.css" />
 		<link rel="stylesheet" href="webicons.css" />
-		<link rel="stylesheet" href="styles.css" />
 		<script src="js/modernizr.js"></script>
+		<link rel="stylesheet" href="css/styles.css" />
 	</head>
 	
 	<body>
 	
-	<div id= "main_layout">	
+	<div class="row" id= "main_layout">
+		<div class="large-12 columns">
 		
 		<div class="row">
-			<div class="large-12 columns">
+			<!--<div class="large-12 columns">-->
 				<nav class="top-bar" data-topbar>
 					<ul class="title-area">
 						<li class="name">
@@ -37,7 +38,7 @@
 					</ul>
 					</section>
 				</nav>
-			</div>
+			<!--</div>-->
 		</div>
 		
 		<div class="row">
@@ -87,6 +88,8 @@
 				</div>
 			</div>
 		</div>
+		
+		</div>
 	</div>
 	
 	<script src="js/jquery.js"></script>
@@ -94,6 +97,7 @@
     <script>
       $(document).foundation();
     </script>
+	
 
 	</body>
 
