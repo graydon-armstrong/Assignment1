@@ -15,7 +15,7 @@
 						<li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
 					</ul>
 								
-					<section class="top-bar-section">
+					<section class="top-bar-section" id="nav_links">
 					<ul class="right">
 						<li class="active"><a href="index.php">Home</a></li>
 						<li class="active"><a href="aboutme.php">About Me</a></li>

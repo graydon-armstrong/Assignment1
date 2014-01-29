@@ -23,6 +23,7 @@
 					<p>Graydon Armstrong, Web Design Extraordinaire.</p>
 					<p>I am a Programming Analyst Student who aspires to run my own business. I want to do web design and programming for clients that is regarded as professional and of high quality. I enjoy programming and the challenges that it gives me from day to day.</p>
 					<a href="#" class="button">More Work</a>
+					<hr />
 					<ul class="projects-slider" data-orbit>
 						<li>
 							<img src="https://forge-allura.apache.org/p/allura/wiki/Features/attachment/code_browsing.png" alt="slide 1" />

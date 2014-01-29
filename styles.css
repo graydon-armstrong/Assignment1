@@ -29,3 +29,13 @@ body
 {
 	background: #333333;
 }
+
+#nav_links ul li > a
+{
+	background: #333333;
+}
+
+#nav_links ul li > a:hover
+{
+	background: #444444;
+}
