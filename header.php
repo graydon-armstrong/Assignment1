@@ -17,11 +17,11 @@
 								
 					<section class="top-bar-section">
 					<ul class="right">
-						<li class="active"><a href="#">Home</a></li>
-						<li class="active"><a href="#">About Me</a></li>
+						<li class="active"><a href="index.php">Home</a></li>
+						<li class="active"><a href="aboutme.php">About Me</a></li>
 						<li class="active"><a href="#">Projects</a></li>
 						<li class="active"><a href="#">Services</a></li>
-						<li class="active"><a href="#">Github</a></li>
+						<li class="active"><a href="https://github.com/graydon-armstrong">Github</a></li>
 						<li class="active"><a href="#">Contact Me</a></li>
 					</ul>
 					</section>
