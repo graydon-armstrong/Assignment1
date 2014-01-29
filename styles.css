@@ -30,6 +30,16 @@ body
 	background: #333333;
 }
 
+#current_page
+{
+	background: #444444 !important;
+}
+
+#current_page:hover
+{
+	background: #555555 !important;
+}
+
 #nav_links ul li > a
 {
 	background: #333333;
