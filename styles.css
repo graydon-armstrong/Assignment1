@@ -1,16 +1,31 @@
 @charset "utf-8";
 
-#footer
+#footer 
+{
+	background: #333333;
+}
+
+#footer p, h4
+{
+	color: #FFFFFF;
+}
+
+#footer #copyright
 {
 	text-align: center;
 }
 
 body
 {
-	background: #444444;
+	background: #999999;
 }
 
 #main_layout
 {
 	background: #FFFFFF;
+}
+
+#header_logo
+{
+	background: #333333;
 }
