@@ -17,36 +17,7 @@
 	<div class="row" id= "main_layout">
 		<div class="large-12 columns">
 		
-		<div class="row" id="header_logo">
-			</br>
-			<div class="large-12 columns">
-			<img src="img/logo.png" width=64 height=64>
-			</div>
-		</div>
-		
-		<div class="row">
-			<!--<div class="large-12 columns">-->
-				<nav class="top-bar" data-topbar>
-					<ul class="title-area">
-						<li class="name">
-							<h1><a href="#">Graydons Web Design</a></h1>
-						</li>
-						<li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
-					</ul>
-								
-					<section class="top-bar-section">
-					<ul class="right">
-						<li class="active"><a href="#">Home</a></li>
-						<li class="active"><a href="#">About Me</a></li>
-						<li class="active"><a href="#">Projects</a></li>
-						<li class="active"><a href="#">Services</a></li>
-						<li class="active"><a href="#">Github</a></li>
-						<li class="active"><a href="#">Contact Me</a></li>
-					</ul>
-					</section>
-				</nav>
-			<!--</div>-->
-		</div>
+		<?php include('header.php'); ?>
 		
 		<div class="row">
 			<div class="large-12 columns">
@@ -85,17 +56,7 @@
 			</div>
 		</div>
 
-		<div class="row" id="footer">
-			<div class="large-12 columns">
-				<h4>Stay Connected</h4>
-				<a href="https://www.facebook.com/graydon.arm" class="webicon facebook">Like us on Facebook</a>
-				<a href="https://twitter.com/Graydon_Arm" class="webicon twitter">Follow us on Twitter</a>
-				<a href="#" class="webicon linkedin">Connect to me on LinkedIn</a>
-			</div>
-			<div class="large-12 columns" id="copyright">
-				<p>Copyright Graydons Web Design 2014</p>
-			</div>
-		</div>
+		<?php include('footer.php') ?>
 		
 		</div>
 	</div>
