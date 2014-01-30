@@ -1,3 +1,10 @@
+<!--
+Filename: header.php
+Authors name: Graydon Armstrong
+Website name: Graydon Web Design
+File Description: This is the header that is included on everypage. It includes the top bar and all the nav links inside it. There is also a php function to get the current page thats loaded and to set the id of current page to the nav button that applies.
+-->
+
 <div class="row" id="header_logo">
 		</br>
 	<div class="large-12 columns">
