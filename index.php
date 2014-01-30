@@ -23,25 +23,25 @@
 					<p>Welcome to my portfolio site.</p>
 					<p>Graydon Armstrong, Web Design Extraordinaire.</p>
 					<p>I am a Programming Analyst Student who aspires to run my own business. I want to do web design and programming for clients that is regarded as professional and of high quality. I enjoy programming and the challenges that it gives me from day to day.</p>
-					<a href="#" class="button">More Work</a>
+					<a href="projects.php" class="button">More Work</a>
 					<hr />
 					<ul class="projects-slider" data-orbit>
 						<li>
 							<img src="img/animation.png" alt="slide 1" width=500 height=200/>
 							<div class="orbit-caption">
-							  Caption One.
+							  2D Animation Tools Restaurant Lab.
 							</div>
 						</li>
 						<li>
 							<img src="img/finance.png" alt="slide 2" width=500 height=200/>
 							<div class="orbit-caption">
-							  Caption Two.
+							  Personal Finance Expenses Tracker.
 							</div>
 						</li>
 						<li>
 							<img src="img/pythongame.png" alt="slide 3" width=500 height=200/>
 							<div class="orbit-caption">
-							  Caption Three.
+							  Graphics Programming Python Game.
 							</div>
 						</li>
 					</ul>
