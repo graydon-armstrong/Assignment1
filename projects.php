@@ -24,7 +24,7 @@
 				<p>I offer web design services that range from static sites, to content management systems and e-commerce websites. With meticulous work put into design and functionality, websites produced by our company will be engaging and memorable. We are competent in all current web design practices such as HTML5 and responsive design, which will help us to deliver a long lasting website with broad appeal.</p>
 			</div>
 			<div class="small-3 columns">
-				<img class="shadow_image" src="img/animation.png" width=256 height=256>
+				<a href="animation.html"><img class="shadow_image" src="img/animation.png" width=256 height=256></a>
 			</div>			
 		</div>
 		
@@ -40,7 +40,7 @@
 				<p>We offer programming and development services to add functionality to your existing websites. We are willing to expand a static website to include e-commerce or other services to help expand your business into the global market. We are also able to develop web applications that you can use to run your business.</p>
 			</div>
 			<div class="small-3 columns">
-				<img class="shadow_image" src="img/finance.png" width=256 height=256>
+				<a href="https://www.dropbox.com/s/u1y8kt4wglu5k6d/January%20Expense%20tracker.xlsx"><img class="shadow_image" src="img/finance.png" width=256 height=256></a>
 			</div>			
 		</div>
 		
