@@ -27,19 +27,19 @@
 					<hr />
 					<ul class="projects-slider" data-orbit>
 						<li>
-							<img src="https://forge-allura.apache.org/p/allura/wiki/Features/attachment/code_browsing.png" alt="slide 1" />
+							<img src="img/animation.png" alt="slide 1" width=500 height=200/>
 							<div class="orbit-caption">
 							  Caption One.
 							</div>
 						</li>
 						<li>
-							<img src="http://www.securelist.com/en/images/pictures/klblog/681.png" alt="slide 2" />
+							<img src="img/finance.png" alt="slide 2" width=500 height=200/>
 							<div class="orbit-caption">
 							  Caption Two.
 							</div>
 						</li>
 						<li>
-							<img src="http://code.snapstream.com/mediawiki/images/0/0d/02_SourceCode.png" alt="slide 3" />
+							<img src="img/pythongame.png" alt="slide 3" width=500 height=200/>
 							<div class="orbit-caption">
 							  Caption Three.
 							</div>
