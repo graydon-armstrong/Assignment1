@@ -34,7 +34,7 @@ File Description: This is the header that is included on everypage. It includes 
 				<li class="active"><a href="aboutme.php" <?php if(curPageName() =="aboutme.php") {echo('id="current_page"');}?>>About Me</a></li>
 				<li class="active"><a href="projects.php" <?php if(curPageName() =="projects.php") {echo('id="current_page"');}?>>Projects</a></li>
 				<li class="active"><a href="services.php" <?php if(curPageName() =="services.php") {echo('id="current_page"');}?>>Services</a></li>
-				<li class="active"><a href="https://github.com/graydon-armstrong">Github</a></li>
+				<li class="active"><a href="https://github.com/graydon-armstrong/Assignment1">Github</a></li>
 				<li class="active"><a href="contactme.php" <?php if(curPageName() =="contactme.php") {echo('id="current_page"');}?>>Contact Me</a></li>
 			</ul>
 			</section>
