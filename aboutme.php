@@ -23,7 +23,7 @@
 				<p>I am a 21 year old student who is taking the computer programmer analyst program at Georgian College. I was born in Barrie, and have spent my whole life here, apart from various vactions to different parts of the world. I enjoy many activities such as going to the movies or seeing bands in concert. I enjoy programming as both a hobby and a job. I wish to open my own web design business that will cater to different clientell.</p>
 			</div>
 			<div class="medium-3 columns">
-				<img id="self_image" src="img/self_image.JPG" width=160 >
+				<img class="shadow_image" src="img/self_image.JPG" width=160 >
 			</div>
 		</div>
 		
