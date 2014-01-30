@@ -27,6 +27,38 @@
 				<img class="shadow_image" src="img/webdesign.jpg" width=256 height=256>
 			</div>			
 		</div>
+		
+		<div class="row">
+			<div class="large-12 columns">
+				<h4>Developement</h4>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="small-9 columns">				
+				
+				<p>We offer programming and development services to add functionality to your existing websites. We are willing to expand a static website to include e-commerce or other services to help expand your business into the global market. We are also able to develop web applications that you can use to run your business.</p>
+			</div>
+			<div class="small-3 columns">
+				<img class="shadow_image" src="img/development.jpg" width=256 height=256>
+			</div>			
+		</div>
+		
+		<div class="row">
+			<div class="large-12 columns">
+				<h4>Branding</h4>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="small-9 columns">				
+				
+				<p>We offer branding services to help bring a single image for your entire company. We will design a brand for you that will be in sync from your website to your business cards.</p>
+			</div>
+			<div class="small-3 columns">
+				<img class="shadow_image" src="img/branding.jpg" width=256 height=256>
+			</div>			
+		</div>
 
 		<?php include('footer.php') ?>
 		
