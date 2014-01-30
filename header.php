@@ -28,7 +28,7 @@
 				<li class="active"><a href="#" <?php if(curPageName() =="projects.php") {echo('id="current_page"');}?>>Projects</a></li>
 				<li class="active"><a href="#" <?php if(curPageName() =="services.php") {echo('id="current_page"');}?>>Services</a></li>
 				<li class="active"><a href="https://github.com/graydon-armstrong">Github</a></li>
-				<li class="active"><a href="#" <?php if(curPageName() =="contactme.php") {echo('id="current_page"');}?>>Contact Me</a></li>
+				<li class="active"><a href="contactme.php" <?php if(curPageName() =="contactme.php") {echo('id="current_page"');}?>>Contact Me</a></li>
 			</ul>
 			</section>
 		</nav>
